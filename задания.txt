@@ -1,0 +1,17 @@
+Сообщения сендер-ресивер 
+Sudo apt install python3-pip
+Pip3 install pyzmq 
+Переход в папку с файлами через cd
+Cd ‘test server’
+Python3 client.py 
+В новом окне терминала python3 server.py 
+
+Http: 
+Sudo apt install telnet 
+Sudo telnet -d localhost 22
+Telnet opennet.ru 80 
+Sudo apt install curl 
+curl -v https://www.hse.ru/en 
+Sudo apt update && Sudo apt install -y nginx 
+Curl -v http://localhost:80 
+Curl -v https://www.mgpu.ru/
